@@ -1,2 +1,2 @@
 # HAL-Mentor
-Application to retrieve scientific publication from HAL with AI augmentation
+Application to retrieve scientific publications from HAL with AI augmentation
